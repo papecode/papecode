@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pape Saliou WADE</h1>
 <h3 align="center">A passionate frontend & Backend developer from Sénégal</h3>
-<img align="right" alt="Coding" with="200" src ="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0" >
+<img align="right" alt="Coding" with="100" src ="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papecode&label=Profile%20views&color=0e75b6&style=flat" alt="papecode" /> </p>
 
