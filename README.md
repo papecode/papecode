@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pape Saliou WADE</h1>
 <h3 align="center">A passionate frontend & Backend developer from Sénégal</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" with="400" src ="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papecode&label=Profile%20views&color=0e75b6&style=flat" alt="papecode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papecode" alt="papecode" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/papesaliouwade" target="blank"><img src="https://img.shields.io/twitter/follow/papesaliouwade?logo=twitter&style=for-the-badge" alt="papesaliouwade" /></a> </p>
 
@@ -37,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papecode&show_icons=true&locale=en" alt="papecode" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papecode&" alt="papecode" /></p>
