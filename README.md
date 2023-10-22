@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/papesaliouwade" target="blank"><img src="https://img.shields.io/twitter/follow/papesaliouwade?logo=twitter&style=for-the-badge" alt="papesaliouwade" /></a> </p>
 
-- 🔭 I’m currently working on **commingsoon.com**
+- 🔭 I’m currently working as **mobile developer**
 
 - 🌱 I’m currently learning **mobile development with Android studio and React native**
 
