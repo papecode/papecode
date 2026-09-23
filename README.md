@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **mobile development with Android studio and React native**
 
-- 👯 I’m looking to collaborate on **commingsoon.com**
+- 👯 I’m looking to collaborate on **[commingsoon.com](https://pswadedev.com/)**
 
 - 📝 I regularly write articles on [commingsoon.com](commingsoon.com)
 
